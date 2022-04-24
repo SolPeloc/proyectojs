@@ -1,0 +1,45 @@
+{
+    "productosM":[{
+            "id":1,
+            "nombre":"BUZO MAX",
+            "precio":2000,
+            "img":"mujer-buzo.png"
+            
+        },
+        {
+            "id":2,
+            "nombre":"JEAN MONTANA ",
+            "precio":3500,
+            "img":"mujer-jean.png"
+        
+        },
+        {
+            "id":3,
+            "nombre":"SACO CLARA",
+            "precio":4200,
+            "img":"mujer-tapado.png"
+        },
+        {
+            "id":4,
+            "nombre":"CAMPERA JAZ",
+            "precio":5500,
+            "img":"mujer-camp.png"
+        
+        },
+        {
+            "id":5,
+            "nombre":"SWEATER JEN",
+            "precio":2600,
+            "img":"mujer-swet.jpg"
+        
+        },
+        {
+            "id":6,
+            "nombre":"BLAZER MIRNA",
+            "precio":3600,
+            "img":"mujer-blazer.jpg"
+          
+        }
+        
+    ]
+}

@@ -1,0 +1,69 @@
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.btnCard{
+	background-color:#3d3740;
+	border-color: black;
+}
+
+.productoEstilo{
+	  padding: 15px;
+}
+  #botonCarrito{
+  	
+      background-color: white;
+      box-shadow: none;
+      border-color: white;
+}
+
+#bienvenidos{
+	font-size:1.5em;
+    font-style:italic;
+    background-color:#e7c2ec;
+     
+}
+
+
+.titulo{
+    font-size:1.5em;
+    font-style:italic;
+    background-color:#e7c2ec;
+    padding: 5px;
+    
+}
+		
+
+
+		#formulario{
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			margin-bottom: 50px;
+		    width: 30%;
+		    height: 30%;
+		    padding-top: 1%;
+		    margin-left: 2%;
+           text-align: center;
+    
+		}
+		.btnEstilo{
+			background-color:grey;
+	         border-color: black;
+	         color:#3d3740;
+		}
+
+
+#footer{
+	margin-left: 120px;
+	margin-bottom: 50px;
+  color: #9BE3A2;
+ font-style:italic;
+  letter-spacing: 2px;
+}
+
+.btnEnviar{
+	width: 30px;
+	height: 30px;
+}
